@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>西京中学</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div class="container">
+	
+	
+	
+	<div class="header">
+	  <div class="logo">
+		<img src="../images/QQ截图20230101221928.jpg" width="20%" alt=""/> </div>
+	  <div class="nav">
+		
+		<ul>
+		    <li><a href="index.html">清华新闻</a></li>
+			<li>学校概况</li>
+			<li>院系设置</li>
+			<li><a href="life.html">教育教学</a></li>
+			<li>科学研究</li>
+			<li>招生就业</li>
+			<li>合作交流</li>
+			<li>走进清华</li>
+	    </ul></div>
+    </div>
+  <div class="content"><!-- #BeginLibraryItem "/Library/banner.lbi" --><img src="../images/轮换.jpg" width="1080" height="372" alt=""/>
+<!-- #EndLibraryItem --><div class="left-nav">
+	  <ul>
+	<li>本科生招生</li>
+	<li>研究生招生</li>
+	<li>国际学院招生</li>
+	<li>在线教育</li>
+	<li>终身教育</li>
+	</ul>
+	  
+	
+    </div>
+    <div class="main"><!-- TemplateBeginEditable name="main" -->main<!-- TemplateEndEditable --></div>
+  </div>
+  
+</div>
+	<div class="footer">
+	<div class="center">
+	  <div class="footer-left">
+		  <p>010-62793001</p>
+		  <p>webmaster@tsinghua.edu.cn</p>
+		  <p>北京市海淀区清华大学</p>
+		  <p>意见反馈</p>
+		  
+	  </div>
+	  <div class="footer-right">
+		<img src="../images/logo180.png" width="50%"  alt=""/></div>
+    </div>
+  </div>
+</body>
+</html>
