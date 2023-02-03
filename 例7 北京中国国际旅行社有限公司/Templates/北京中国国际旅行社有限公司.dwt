@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>北京中国国际旅行社有限公司</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+<div class="container">
+  <div class="logo"><img src="../images/QQ图片20230202190014.png"  alt=""/></div>
+	
+  <div class="nav">
+	<ul>
+	    <li>热门旅游目的地</li>
+	    <li><a href="index.html">首页</a></li>
+	    <li>国内游</li>
+	    <li>公司郊游</li>
+	    <li><a href="beijing.html">北京游</a></li>
+	    <li>定制游</li>
+		<li>签证</li>
+		<li>主题游</li>
+		<li>邮轮</li>
+	    <li>出境游</li>
+		<li>自组团</li>
+    </ul>
+  </div>
+	
+  <div class="nav-left">
+	<ul>
+	    <li>南亚 东南亚</li>
+		<li><small>越南 芽住 泰国 新加坡</small></li>
+		<li>海岛 马尔代夫</li>
+		<li><small>巴厘岛 塞班岛 毛里求斯</small></li>
+		<li>极地 港澳台</li>
+		<li>南极北极 香港 台湾</li>
+		<li>欧洲 美洲</li>
+		<li><small>北欧 英国 东欧 美国</small></li>
+    </ul>
+	</div>
+  <img src="../images/QQ图片20230202190928.png" alt=""/>
+<div class="content"><!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable --></div>
+	
+  <div class="footer">
+	<p>Copyright©1998-2020 北京国旅官网 citsbj.com | All rights reserved 京ICP备05045528号-1​</p>
+	  <p>​统一社会信用代码：911101051011533640</p>
+	</div>
+</div>
+</body>
+</html>
